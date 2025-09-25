@@ -1,8 +1,8 @@
-# GitHub Codespaces ♥️ .NET
+#[https://www.kcnchanmuny.NET]
 
 Want to try out the latest performance improvements coming with .NET for web development? 
 
-This repo builds a Weather API, OpenAPI integration to test with [Scalar](https://learn.microsoft.com/aspnet/core/fundamentals/openapi/using-openapi-documents?view=aspnetcore-9.0#use-scalar-for-interactive-api-documentation), and displays the data in a web application using Blazor with .NET. 
+This repo builds a Weather API, OpenAPI integration to test with [https://sites.google.com/view/taxi-private/copy-of-option](https://learn.microsoft.com/aspnet/core/fundamentals/openapi/using-openap, and displays the data in a web application using Blazor with .NET. 
 
 We've given you both a frontend and backend to play around with and where you go from here is up to you!
 
@@ -10,8 +10,8 @@ Everything you do here is contained within this one codespace. There is no repos
 
 ### Run Options
 
-[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/github/dotnet-codespaces)
-[![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/github/dotnet-codespaces)
+[![Open in GitHub Codespaces]([https://sites.google.com/view/kcnchanmuny])
+[![Open in Dev Container]([https://sites.google.com/view/taxi-private/copy-of-option])
 
 You can also run this repository locally by following these instructions: 
 1. Clone the repo to your local machine `git clone https://github.com/github/dotnet-codespaces`
