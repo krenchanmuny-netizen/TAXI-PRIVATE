@@ -4,6 +4,64 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Munytaxi - Your Reliable Ride</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <i class="fas fa-car" style="color: #ffc107;"></i>
+            <span class="logo-text">munytaxi</span>
+        </div>
+        <nav class="nav-links">
+            <a href="#" class="active">Home</a>
+            <a href="#">Services</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact</a>
+            <a href="#" class="btn-primary">Book now</a>
+        </nav>
+    </header>
+
+    <main class="hero-section">
+        <div class="hero-content">
+            <div class="text-content">
+                <h1>YOUR RELIABLE RIDE, ANYTIME AND ANYWHERE</h1>
+                <button class="btn-secondary">BOOK NOW</button>
+            </div>
+
+            <div class="booking-form-card">
+                <form class="booking-form">
+                    <label for="pickup-location">Pickup Location</label>
+                    <input type="text" id="pickup-location" placeholder="Pickup Location">
+
+                    <label for="dropoff-location">Dropoff Location</label>
+                    <input type="text" id="dropoff-location" placeholder="Dropoff Location">
+
+                    <label for="pickup-date">Pickup Date</label>
+                    <input type="date" id="pickup-date">
+
+                    <label for="pickup-time">Pickup Time</label>
+                    <input type="time" id="pickup-time">
+
+                    <button type="submit" class="btn-primary form-submit-btn">Get Estimate</button>
+                </form>
+            </div>
+        </div>
+        </main>
+
+    <section class="features-placeholder">
+        <p>This is where the feature icons and testimonial sections would go.</p>
+    </section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Munytaxi - Your Reliable Ride</title>
     <!-- Load Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Load Font Awesome for the car icon -->
